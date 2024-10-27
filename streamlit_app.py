@@ -182,7 +182,7 @@ st.markdown(
     """
     <div style='text-align: right; font-size: 24px; color: black; direction: rtl;'>
         <span style='color: black; font-weight: bold; font-size: 24px;'>بين العمر والسعر</span>: 
-        <span style='font-weight: normal; font-size: 16px;'>لرياض تتطور بسرعة كل يوم، عندك فضول تعرف كيف تتفاوت اسعار العقارات حسب حداثتها؟</span>
+        <span style='font-weight: normal; font-size: 16px;'>الرياض تتطور بسرعة كل يوم، عندك فضول تعرف كيف تتفاوت اسعار العقارات حسب حداثتها؟</span>
         <br><br>
     </div>
     """,
