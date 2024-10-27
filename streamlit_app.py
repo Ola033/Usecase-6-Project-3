@@ -19,7 +19,7 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-image_path = r"C:\Users\LENOVO\OneDrive\Desktop\Tuwaiqpro\Usecase-6-Project-3\pic\king.png"  
+image_path = "pic/king.png"  
 image = Image.open(image_path)
 
 st.image(image, use_column_width=True)
