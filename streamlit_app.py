@@ -5,8 +5,8 @@ import matplotlib.pyplot as plt
 import plotly.express as px 
 from PIL import Image
 
-df3 = pd.read_csv("C:/Users/LENOVO/OneDrive/Desktop/Tuwaiqpro/Usecase-6-Project-3/data/RiyadhVillasAqar.csv")
-ra = pd.read_csv(r"C:\Users\LENOVO\OneDrive\Desktop\Tuwaiqpro\Usecase-6-Project-3\data\realEstate.csv")
+df3 = pd.read_csv("data/RiyadhVillasAqar.csv")
+ra = pd.read_csv(r"data\realEstate.csv")
 st.markdown(
     """
     <style>
