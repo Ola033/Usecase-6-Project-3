@@ -32,7 +32,7 @@ st.markdown(
 st.markdown(
     """
     <div style='text-align: center; font-size: 16px; color: black;'>
-       رحلة البحث عن سكن مناسب في الرياض قد تكون من أصعب التجارب، كثرة الخيارات والتنافس الشديد بينهما قد يجعلك تقف حائرا في مكان واحد. 
+       رحلة البحث عن سكن مناسب في الرياض قد تكون من أصعب التجارب، كثرة الخيارات والتنافس الشديد بينهما قد يجعلك تقف حائرا في مكان واحد، 
         نختصرعليك عناء البحث ونجاوب على كل سؤال قد يتبادر الى ذهنك ببيانات حقيقية من عقارات الرياض
     </div>
     """,
@@ -116,7 +116,7 @@ st.markdown("<br>", unsafe_allow_html=True)
 st.markdown(
     """
     <div style='text-align: right; font-size: 24px; color: black; direction: rtl;'>
-        <span style='color: black; font-weight: bold; font-size: 24px;'>جولة في أحياء الرياض</span>: 
+        <span style='color: black; font-weight: bold; font-size: 24px;'>جولة في احياء الرياض</span>: 
         <span style='font-weight: normal; font-size: 16px;'>كيف تختار بوعي بناء على متوسط الأسعار</span>
         <br><br>
     </div>
@@ -163,7 +163,7 @@ fig = px.bar(
     average_prices, 
     x='الحي', 
     y='السعر', 
-    title='متوسط الأسعار حسب الأحياء',
+    title='متوسط الأسعار حسب الاحياء',
     labels={'السعر': 'متوسط السعر', 'الحي': 'الحي'},
     color='السعر',  # Color by average price for better visualization
     color_continuous_scale=['#00BFFF', '#DDA0DD', '#0033CC']
