@@ -229,7 +229,7 @@ st.markdown("<br>", unsafe_allow_html=True)
 st.markdown(
     """
     <div style='text-align: right; font-size: 20px; color: black; direction: rtl;'>
-        <span style='color: #003366; font-weight: bold;'>استثمر</span> وقتك في فهم أسعار العقارات في الأحياء المختلفة، واختَر سكنك بعناية بما يتناسب مع ميزانيتك واحتياجاتك.
+        <span style='color: #003366; font-weight: bold;'>استثمر</span> وقتك في فهم أسعار العقارات في الاحياء المختلفة، واختَر سكنك بعناية بما يتناسب مع ميزانيتك واحتياجاتك.
     </div>
     """,
     unsafe_allow_html=True
