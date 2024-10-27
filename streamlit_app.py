@@ -25,7 +25,7 @@ image = Image.open(image_path)
 st.image(image, use_column_width=True)
 st.markdown(
     """
-    <h1 class='title' style='text-align: right; direction: rtl;'>نظرة في عقار العاصمة: أين تسكن في مدينة <span style='color: #003366;'>المستقبل؟</span></h1>
+    <h1 class='title' style='text-align: right; direction: rtl;'>نظرة في عقار العاصمة: اين تسكن في مدينة <span style='color: #003366;'>المستقبل؟</span></h1>
     """,
     unsafe_allow_html=True
 )
@@ -182,7 +182,7 @@ st.markdown(
     """
     <div style='text-align: right; font-size: 24px; color: black; direction: rtl;'>
         <span style='color: black; font-weight: bold; font-size: 24px;'>بين العمر والسعر</span>: 
-        <span style='font-weight: normal; font-size: 16px;'>اكتشف كيف تؤثر على اختياراتك السكنية</span>
+        <span style='font-weight: normal; font-size: 16px;'>لرياض تتطور بسرعة كل يوم، عندك فضول تعرف كيف تتفاوت اسعار العقارات حسب حداثتها؟</span>
         <br><br>
     </div>
     """,
