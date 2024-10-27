@@ -207,7 +207,7 @@ fig.update_layout(
 # Show the figure
 st.plotly_chart(fig, use_container_width=True)
 
-
+st.markdown("## استعرض متوسط أسعار العقارات حسب الحي")
 # Dropdown for selecting district
 selected_district = st.selectbox(
     'اختر الحي:',
