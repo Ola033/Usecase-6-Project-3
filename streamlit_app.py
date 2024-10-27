@@ -6,7 +6,8 @@ import plotly.express as px
 from PIL import Image
 
 df3 = pd.read_csv("data/RiyadhVillasAqar.csv")
-ra = pd.read_csv(r"data\realEstate.csv")
+ra = pd.read_csv("data/realEstate.csv")
+
 st.markdown(
     """
     <style>
